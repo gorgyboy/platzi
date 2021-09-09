@@ -2,4 +2,4 @@ Hello world!
 
 I'm learning GIT
 
-I'm a developer in training
+I'm a developer in training and I like flutter
